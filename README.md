@@ -68,12 +68,11 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Undergraduate student in **Informatics / Information Systems**, currently finishing my thesis (*Tugas Akhir*)
+- 🎓 Bachelors of **Information Systems**
 - 🛠️ I build **full-stack web apps solo** — backend, frontend, deployment, and documentation
-- 🌱 Currently deep in **Progressive Web Apps (PWA)**, **Laravel + Vue 3 + Inertia.js**, and **RAG-based AI chatbots**
-- 💬 Ask me about **Laravel, Vue.js, PHP, Node.js, or PWA/service worker implementation**
+- 🌱 Currently deep in **Progressive Web Apps (PWA)**, **Laravel + Vue 3 + Inertia.js**, and **Flutter Mobile Development**
+- 💬 Ask me about **Laravel, Vue.js, PHP, Node.js, or Flutter implementation**
 - 📫 Reach me at **muhammaddzulfiqar03@gmail.com**
-- ⚡ Fun fact: most of my recent work involves making offline-first apps that actually survive real deployment quirks (shared hosting included 😅)
 
 ---
 
@@ -113,12 +112,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dzulfiqar03&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=dzulfiqar03&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzulfiqar03&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
 </p>
 
 <p align="center">
