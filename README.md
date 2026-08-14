@@ -60,6 +60,10 @@
 </p>
 
 <p align="center">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=dzulfiqar03&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=dzulfiqar03&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/dzulfiqar03?label=Follow&style=social" alt="followers" />
 </p>
@@ -110,10 +114,6 @@
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=dzulfiqar03&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dzulfiqar03&theme=tokyo-night&hide_border=true" alt="activity graph" width="100%" />
