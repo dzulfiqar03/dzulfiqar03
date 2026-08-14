@@ -53,7 +53,7 @@
  -->
 
  <h1 align="center">Hi, I'm Muhammad Dzulfiqar 👋</h1>
-<h3 align="center">Informatics Student • Full-Stack Developer • Building solo, end-to-end</h3>
+<h3 align="center">Full-Stack Developer • Building solo, end-to-end</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+(Laravel+%2B+Vue);Focusing+on+Development+and+Mobile+Development;Solo+dev+%E2%80%94+backend+to+deployment" alt="Typing SVG" />
